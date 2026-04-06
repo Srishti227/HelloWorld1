@@ -4,4 +4,6 @@ void main()
     printf("Hello World!!\n");
     printf("This is my first github project\n");
     printf("Helooo");
+    printf("Helloooo");
+    printf("hi");
 }
